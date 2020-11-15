@@ -1,8 +1,8 @@
 <?php
 
 /**
- * Plugin Name: RC Tags list
- * Description: Ribera del Calderon WP Tags list
+ * Plugin Name: Posts tags list
+ * Description: Some usefull description
  * Version: 0.0.1
  * Author: Mario Martinez
  * Author URI: mariorojermartinez@gmail.com
